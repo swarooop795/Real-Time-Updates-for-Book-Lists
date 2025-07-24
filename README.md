@@ -1,4 +1,4 @@
-# Real-Time-Updates-for-Book-Lists
+# Task-8 Real-Time-Updates-for-Book-Lists
 
 A modern, full-stack book management application with real-time updates using WebSockets. Built with React, TypeScript, Express, and Socket.io.
 
